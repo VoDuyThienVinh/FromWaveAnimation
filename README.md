@@ -22,7 +22,7 @@ https://github.com/VoDuyThienVinh/FromWaveAnimation
 
 ## 4.Screenshots
 
-![Image description](images/picture.png)
+![Image description](images/picture.PNG)
 
 ## 5. Link Github-Page
 ```
