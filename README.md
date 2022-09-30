@@ -31,4 +31,8 @@ https://voduythienvinh.github.io/FromWaveAnimation/
 
 ## Adapted from:
 
-50 Days Project - Udemy
+Udemy Course: 50 Project in 50 Days - HTML, CSS & Javascript
+Project Name: Day 8 - From Wave Animation
+Create by: Brad Traversy, Florin Pop
+Last updated 12/2020
+URL: https://www.udemy.com/course/50-projects-50-days/
